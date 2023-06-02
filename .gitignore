@@ -70,3 +70,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/Flying\ Frenzy/Library/
+/Flying\ Frenzy/Logs/
+/Flying\ Frenzy/Temp/
+/Flying\ Frenzy/Packages/
+/Flying\ Frenzy/ProjectSettings/
+/Flying\ Frenzy/UserSettings/
+.DS_Store
